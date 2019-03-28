@@ -42,6 +42,11 @@
         "live": "live",
         "master": "master"
       }
+    },
+    {
+      "path_to_root": "E2E_RepoConfig_Dynamic_Prod/fallback",
+      "url": "https://github.com/OPS-E2E-Prod/E2E_DocsBranch_Prod_Dynamic",
+      "branch": "crr-locfallback"
     }
   ],
   "branch_target_mapping": {
